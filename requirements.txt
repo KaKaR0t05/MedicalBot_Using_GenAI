@@ -3,8 +3,9 @@ langchain
 flask
 pypdf
 python-dotenv
-pinecone[grpc]
+pinecone
 langchain-pinecone
 langchain_community
+langchain_ollama
 langchain_core
--e .
+langchain-huggingface
